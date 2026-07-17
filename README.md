@@ -1,21 +1,28 @@
 # Ecommerce Sales Performance Dashboard (Excel)
 
 ## 📌 Project Overview
-An interactive Excel dashboard designed to analyze and track key retail performance metrics for an international e-commerce business. This project transforms raw sales data into actionable visual insights regarding revenue trends, regional performance, and operational efficiency across multiple years (2023–2024).
+An interactive Excel data analytics project designed to track, analyze, and visualize key performance indicators (KPIs) for an international e-commerce business across multiple operational metrics (2023–2024).
 
-## 🔑 Key Metrics Tracked
-* **Total Revenue:** 39.4M
-* **Total Orders:** 39,966
-* **Total Customers:** 27,484
-* **Average Order Value (AOV):** 985.90
-* **Operational Health:** Maintained a stable 3% Cancellation Rate and 3% Return Rate.
+## 📊 Dashboard Preview
+![Dashboard Preview](Ecommerce Dashboard.png)
 
-## 💡 Core Insights & Analysis
-* **Geographic Performance:** The United States stands out as the primary driver of revenue, significantly outperforming regional markets like India, Canada, Australia, and the UK.
-* **Product Categories:** "Electronics" and "Books" emerge as the highest-grossing categories, while "Clothing" represents the lowest overall sales volume.
-* **Seasonality:** Monthly sales show steady performance across both years, with notable peaks driven by seasonal trends across specific quarters.
+## 🔑 KPIs & Analysis Included
+* **Total Revenue:** Total gross monetary value generated from completed sales.
+* **Total Order:** Gross count of all orders placed across the platform.
+* **Total Customers:** Unique customer count driving transactional volume.
+* **Average Order Value (AOV):** Average amount spent per transaction.
+* **Cancellation Rate %:** Percentage of orders canceled prior to fulfillment.
+* **Return Rate %:** Percentage of delivered orders sent back by customers.
+
+## 📈 Visual Breakdowns & Trends
+* **Monthly Sales Trend:** Chronological performance overview tracking sales variations over time.
+* **Sales by Category:** Sector breakdown showing revenue distribution across major product groups.
+* **Top 10 Products:** High-utility identification of the highest revenue-generating inventory items.
+* **Order Status Distribution:** Operational breakdown analyzing fulfillment rates (Delivered, Pending, Canceled).
+* **Revenue by Country:** Geographical performance breakdown highlighting top international consumer markets.
+* **Payment Method Analysis:** Structural breakdown tracking customer transaction preferences (Cards, UPI, Cash).
 
 ## 🛠️ Technical Skills Demonstrated
-* **Data Visualization & Dashboard Design:** Designed a clean, professional user interface featuring distinct charts, clean number formatting, and customized data axes.
-* **Pivot Tables & Pivot Charts:** Utilized pivot reporting structures to dynamically aggregate millions in sales data by date, category, and country.
-* **Data Cleansing:** Standardized text parameters, addressed text-string formatting issues to properly align chronological date structures (Jan–Dec), and configured custom numeric strings (`#,##0,,\M`).
+* **Data Visualization & Dashboard UI Design:** Designed a cohesive interface with clean custom axis metrics in Millions (`M`).
+* **Pivot Tables & Pivot Charts:** Aggregated large transactional data sets dynamically across dates, regions, and categories.
+* **Data Cleansing:** Standardized text string errors and sorted custom date hierarchies chronologically.
